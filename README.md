@@ -1,0 +1,5 @@
+# SFC-Tour-2023-Lecture
+
+このリポジトリは、2023年11月9日に慶應義塾大学 湘南藤沢キャンパス(SFC)で開催された **「SFCツアー」** での講演会の資料を含んでいます。
+
+[SFC-Tour-2023-Lecture](https://github.com/sugijotaro/SFC-Tour-2023-Lecture) © 2 by [Jotaro Sugiyama](https://github.com/sugijotaro) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:16px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1"></a>
